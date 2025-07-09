@@ -11,7 +11,7 @@ I am a graduate with  Master's degrees from the School of Computer Science and t
 
 During my graduate studies, I was advised by [Prof. Shen Xukun](https://scse.buaa.edu.cn/info/1078/2650.htm) and [Prof. Hu Yong](https://shi.buaa.edu.cn/huyong/zh_CN/index/10387/list/) from the [School of Computer Science and technology](https://scse.buaa.edu.cn/), Beihang University.
 
-**I am currently working as an Algorithm Engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/) in Shenzhen.** You can find my CV here: [[gongy]'s Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+currently working as an Algorithm Engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/) in Shenzhen.
 
 [Email](gongy01@pcl.ac.cn) / [Github](https://github.com/gongy01)
 
