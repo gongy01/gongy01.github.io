@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate with  Master's degrees from the School of Computer Science and technology, [Beihang University](https://www.buaa.edu.cn/), where I was affiliated with the Virtual Reality Technology and System Laboratory. My research interests include virtual reality, augmented reality, and language large models.
+I am a graduate with  Master's degrees from the School of Computer Science and technology, [Beihang University](https://www.buaa.edu.cn/), where I was affiliated with the Virtual Reality Technology and System Laboratory. My research interests include virtual reality, augmented reality, and large language models.
 
 During my graduate studies, I was advised by [Prof. Shen Xukun](https://scse.buaa.edu.cn/info/1078/2650.htm) and [Prof. Hu Yong](https://shi.buaa.edu.cn/huyong/zh_CN/index/10387/list/) from the [School of Computer Science and technology](https://scse.buaa.edu.cn/), Beihang University.
 
