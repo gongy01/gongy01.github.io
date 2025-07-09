@@ -13,5 +13,5 @@ During my graduate studies, I was advised by [Prof. Shen Xukun](https://scse.bua
 
 Currently working as an Algorithm Engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/) in Shenzhen.
 
-[Email](gongy01@pcl.ac.cn) / [Github](https://github.com/gongy01)
+[Email](mailto:gongy01@pcl.ac.cn) / [Github](https://github.com/gongy01)
 
